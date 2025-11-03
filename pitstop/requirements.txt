@@ -1,0 +1,16 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# F1 data and analysis
+fastf1
+
+# Reinforcement learning and simulation
+gymnasium
+stable-baselines3
+
+# Optional: visualization and notebook support
+seaborn
+jupyter
